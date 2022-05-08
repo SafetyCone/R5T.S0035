@@ -1,0 +1,2 @@
+# R5T.S0035
+Generation, composite, scripts for Roslyn syntax elements.
